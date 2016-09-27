@@ -78,6 +78,8 @@
     </conceptSet>
     <schemeMeta authority="http://www.iptc.org" uri="http://cv.iptc.org/newscodes/spactionclass/"
         preferredalias="spactionclass">
+        <definition xml:lang="en-US">High-level categories of on-field action in all
+            sports.</definition>
         <definition xml:lang="en-GB">High-level categories of on-field action in all
             sports.</definition>
         <name xml:lang="en-US">Action Classifications</name>
