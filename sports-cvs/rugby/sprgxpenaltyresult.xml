@@ -88,6 +88,7 @@
         uri="http://cv.iptc.org/newscodes/sprgxpenaltyresult/"
         preferredalias="sprgxpenaltyresult">
         <definition xml:lang="en-GB">Results of penalties in rugby.</definition>
+                <definition xml:lang="en-US">Results of penalties in rugby.</definition>
         <name xml:lang="en-US">Rugby Penalty Results</name>
             <name xml:lang="en-GB">Rugby Penalty Results</name>
         <related qcode="sprgxpenaltyresult:play-on" rel="skos:hasTopConcept"/>

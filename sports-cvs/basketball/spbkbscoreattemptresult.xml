@@ -64,6 +64,7 @@
         uri="http://cv.iptc.org/newscodes/spbkbscoreattemptresult/"
         preferredalias="spbkbscoreattemptresult">
         <definition xml:lang="en-GB">Types of scoring failure in basketball.</definition>
+                <definition xml:lang="en-US">Types of scoring failure in basketball.</definition>
         <name xml:lang="en-US">Basketball Score Attempt Results</name>
             <name xml:lang="en-GB">Basketball Score Attempt Results</name>
         <related qcode="spbkbscoreattemptresult:missed" rel="skos:hasTopConcept"/>

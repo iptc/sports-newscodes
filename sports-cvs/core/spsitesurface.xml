@@ -47,6 +47,8 @@
     </conceptSet>
     <schemeMeta authority="http://www.iptc.org" uri="http://cv.iptc.org/newscodes/spsitesurface/"
         preferredalias="spsitesurface">
+        <definition xml:lang="en-US">Describes the surface upon which events are
+            played.</definition>
         <definition xml:lang="en-GB">Describes the surface upon which events are
             played.</definition>
         <name xml:lang="en-US">Site Surface</name>

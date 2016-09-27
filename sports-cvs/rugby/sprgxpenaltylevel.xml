@@ -53,6 +53,7 @@
         uri="http://cv.iptc.org/newscodes/sprgxpenaltylevel/"
         preferredalias="sprgxpenaltylevel">
         <definition xml:lang="en-GB">Levels of penalty in rugby.</definition>
+                <definition xml:lang="en-US">Levels of penalty in rugby.</definition>
         <name xml:lang="en-US">Rugby Penalty Levels</name>
             <name xml:lang="en-GB">Rugby Penalty Levels</name>
         <related qcode="sprgxpenaltylevel:yellow-card" rel="skos:hasTopConcept"/>

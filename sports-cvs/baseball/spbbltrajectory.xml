@@ -68,6 +68,7 @@
     <schemeMeta authority="http://www.iptc.org" uri="http://cv.iptc.org/newscodes/spbbltrajectory/"
         preferredalias="spbbltrajectory">
         <definition xml:lang="en-GB">Trajectories of baseball hits</definition>
+                <definition xml:lang="en-US">Trajectories of baseball hits</definition>
         <name xml:lang="en-US">Baseball Hit Trajectory</name>
             <name xml:lang="en-GB">Baseball Hit Trajectory</name>
         <related qcode="spbbltrajectory:ground" rel="skos:hasTopConcept"/>

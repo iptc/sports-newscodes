@@ -47,6 +47,8 @@
     </conceptSet>
     <schemeMeta authority="http://www.iptc.org" uri="http://cv.iptc.org/newscodes/spteamcoverage/"
         preferredalias="spteamcoverage">
+        <definition xml:lang="en-US">Whether document pertains to single team or multiple
+            teams</definition>
         <definition xml:lang="en-GB">Whether document pertains to single team or multiple
             teams</definition>
         <name xml:lang="en-US">Team Coverage</name>

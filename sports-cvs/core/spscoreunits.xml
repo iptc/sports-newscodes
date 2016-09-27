@@ -57,6 +57,8 @@
     </conceptSet>
     <schemeMeta authority="http://www.iptc.org" uri="http://cv.iptc.org/newscodes/spscoreunits/"
         preferredalias="spscoreunits">
+        <definition xml:lang="en-US">Describes how the score and score-opposing is
+            valued.</definition>
         <definition xml:lang="en-GB">Describes how the score and score-opposing is
             valued.</definition>
         <name xml:lang="en-US">Score Units</name>

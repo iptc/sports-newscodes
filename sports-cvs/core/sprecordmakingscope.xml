@@ -48,6 +48,7 @@
     <schemeMeta authority="http://www.iptc.org"
         uri="http://cv.iptc.org/newscodes/sprecordmakingscope/" preferredalias="sprecordmakingscope">
         <definition xml:lang="en-GB">Scope of an achieved record</definition>
+                <definition xml:lang="en-US">Scope of an achieved record</definition>
         <name xml:lang="en-US">Record Scope</name>
             <name xml:lang="en-GB">Record Scope</name>
         <related qcode="sprecordmakingscope:high" rel="skos:hasTopConcept"/>

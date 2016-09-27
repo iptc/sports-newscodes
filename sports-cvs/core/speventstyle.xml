@@ -47,6 +47,8 @@
     </conceptSet>
     <schemeMeta authority="http://www.iptc.org" uri="http://cv.iptc.org/newscodes/speventstyle/"
         preferredalias="speventstyle">
+        <definition xml:lang="en-US">Indicates whether competitors are trying to defeat each other
+            or just outdo one another.</definition>
         <definition xml:lang="en-GB">Indicates whether competitors are trying to defeat each other
             or just outdo one another.</definition>
         <name xml:lang="en-US">Event Style</name>

@@ -48,6 +48,7 @@
     <schemeMeta authority="http://www.iptc.org" uri="http://cv.iptc.org/newscodes/sphealth/"
         preferredalias="sphealth">
         <definition xml:lang="en-GB">An indication of the health of the player.</definition>
+                <definition xml:lang="en-US">An indication of the health of the player.</definition>
         <name xml:lang="en-US">Player Health</name>
             <name xml:lang="en-GB">Player Health</name>
         <related qcode="sphealth:injured" rel="skos:hasTopConcept"/>

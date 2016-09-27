@@ -68,6 +68,7 @@
     <schemeMeta authority="http://www.iptc.org"
         uri="http://cv.iptc.org/newscodes/sprgxscoreattempt/" preferredalias="sprgxscoreattempt">
         <definition xml:lang="en-GB">Types of scoring in rugby.</definition>
+                <definition xml:lang="en-US">Types of scoring in rugby.</definition>
         <name xml:lang="en-US">Rugby Score Types</name>
             <name xml:lang="en-GB">Rugby Score Types</name>
         <related qcode="sprgxscoreattempt:try" rel="skos:hasTopConcept"/>

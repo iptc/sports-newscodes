@@ -118,6 +118,7 @@
         uri="http://cv.iptc.org/newscodes/spsocscoreattemptmethod/"
         preferredalias="spsocscoreattemptmethod">
         <definition xml:lang="en-GB">Methods of soccer scoring used by a player.</definition>
+                <definition xml:lang="en-US">Methods of soccer scoring used by a player.</definition>
         <name xml:lang="en-US">Soccer Scoring Methods</name>
             <name xml:lang="en-GB">Soccer Scoring Methods</name>
         <related qcode="spsocscoreattemptmethod:head" rel="skos:hasTopConcept"/>

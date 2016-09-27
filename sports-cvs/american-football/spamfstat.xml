@@ -2373,6 +2373,7 @@
     <schemeMeta uri="http://cv.iptc.org/newscodes/spamfstat/" authority="http://www.iptc.org"
         preferredalias="spamfstat">
         <definition xml:lang="en-GB">Vocabulary of statistics for American Football</definition>
+                <definition xml:lang="en-US">Vocabulary of statistics for American Football</definition>
         <name xml:lang="en-US">American Football Statistics</name>
             <name xml:lang="en-GB">American Football Statistics</name>
         <related qcode="spamfstat:yards-per-attempt" rel="skos:hasTopConcept"/>

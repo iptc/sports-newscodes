@@ -108,6 +108,7 @@
     <schemeMeta authority="http://www.iptc.org" uri="http://cv.iptc.org/newscodes/spbblout/"
         preferredalias="spbblout">
         <definition xml:lang="en-GB">Types of baseball outs</definition>
+                <definition xml:lang="en-US">Types of baseball outs</definition>
         <name xml:lang="en-US">Baseball Out Types</name>
             <name xml:lang="en-GB">Baseball Out Types</name>
         <related qcode="spbblout:strikeout" rel="skos:hasTopConcept"/>

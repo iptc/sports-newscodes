@@ -381,6 +381,7 @@
     <schemeMeta uri="http://cv.iptc.org/newscodes/spvolstat/" authority="http://www.iptc.org"
         preferredalias="spvolstat">
         <definition xml:lang="en-GB">Vocabulary of statistics for Volleyball</definition>
+                <definition xml:lang="en-US">Vocabulary of statistics for Volleyball</definition>
         <name xml:lang="en-US">Volleyball Statistics</name>
             <name xml:lang="en-GB">Volleyball Statistics</name>
         <related qcode="spvolstat:errors-oppenent" rel="skos:hasTopConcept"/>

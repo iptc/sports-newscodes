@@ -93,6 +93,7 @@
     <schemeMeta authority="http://www.iptc.org"
         uri="http://cv.iptc.org/newscodes/spsocscoreattempt/" preferredalias="spsocscoreattempt">
         <definition xml:lang="en-GB">Types of scoring in soccer.</definition>
+                <definition xml:lang="en-US">Types of scoring in soccer.</definition>
         <name xml:lang="en-US">Soccer Score Types</name>
             <name xml:lang="en-GB">Soccer Score Types</name>
         <related qcode="spsocscoreattempt:regular" rel="skos:hasTopConcept"/>

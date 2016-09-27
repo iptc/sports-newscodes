@@ -52,6 +52,7 @@
     <schemeMeta authority="http://www.iptc.org" uri="http://cv.iptc.org/newscodes/spamftimeout/"
         preferredalias="spamftimeout">
         <definition xml:lang="en-GB">Types of American Football timeouts</definition>
+                <definition xml:lang="en-US">Types of American Football timeouts</definition>
         <name xml:lang="en-US">American Football Timeout Type</name>
             <name xml:lang="en-GB">American Football Timeout Type</name>
         <related qcode="spamftimeout:2-minute" rel="skos:hasTopConcept"/>

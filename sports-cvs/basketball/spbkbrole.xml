@@ -141,6 +141,7 @@
     <schemeMeta authority="http://www.iptc.org" uri="http://cv.iptc.org/newscodes/spbkbrole/"
         preferredalias="spbkbrole">
         <definition xml:lang="en-GB">Roles of basketball players</definition>
+                <definition xml:lang="en-US">Roles of basketball players</definition>
         <name xml:lang="en-US">Basketball Player Roles</name>
             <name xml:lang="en-GB">Basketball Player Roles</name>
         <related qcode="spbkbrole:on-court" rel="skos:hasTopConcept"/>

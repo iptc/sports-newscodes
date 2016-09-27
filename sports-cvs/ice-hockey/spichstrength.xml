@@ -61,6 +61,7 @@
     <schemeMeta authority="http://www.iptc.org" uri="http://cv.iptc.org/newscodes/spichstrength/"
         preferredalias="spichstrength">
         <definition xml:lang="en-GB">Strength situations in ice hockey</definition>
+                <definition xml:lang="en-US">Strength situations in ice hockey</definition>
         <name xml:lang="en-US">Ice Hockey Squad Strength</name>
             <name xml:lang="en-GB">Ice Hockey Squad Strength</name>
         <related qcode="spichstrength:even-strength" rel="skos:hasTopConcept"/>

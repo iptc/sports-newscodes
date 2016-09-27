@@ -109,6 +109,7 @@
     <schemeMeta authority="http://www.iptc.org" uri="http://cv.iptc.org/newscodes/spbblrole/"
         preferredalias="spbblrole">
         <definition xml:lang="en-GB">Roles of Baseball players</definition>
+                <definition xml:lang="en-US">Roles of Baseball players</definition>
         <name xml:lang="en-US">Baseball Player Roles</name>
             <name xml:lang="en-GB">Baseball Player Roles</name>
         <related qcode="spbblrole:batter" rel="skos:hasTopConcept"/>

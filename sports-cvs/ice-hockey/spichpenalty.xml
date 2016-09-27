@@ -405,6 +405,7 @@
     <schemeMeta authority="http://www.iptc.org" uri="http://cv.iptc.org/newscodes/spichpenalty/"
         preferredalias="spichpenalty">
         <definition xml:lang="en-GB">Types of penalty in ice-hockey.</definition>
+                <definition xml:lang="en-US">Types of penalty in ice-hockey.</definition>
         <name xml:lang="en-US">Ice Hockey Penalty</name>
             <name xml:lang="en-GB">Ice Hockey Penalty</name>
         <related qcode="spichpenalty:abuse-of-officials" rel="skos:hasTopConcept"/>

@@ -156,6 +156,7 @@
     <schemeMeta authority="http://www.iptc.org" uri="http://cv.iptc.org/newscodes/spamfaction/"
         preferredalias="spamfaction">
         <definition xml:lang="en-GB">Types of play action in American Football</definition>
+                <definition xml:lang="en-US">Types of play action in American Football</definition>
         <name xml:lang="en-US">American Football Actions</name>
             <name xml:lang="en-GB">American Football Actions</name>
         <related qcode="spamfaction:drive" rel="skos:hasTopConcept"/>

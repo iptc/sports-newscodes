@@ -53,6 +53,7 @@
     <schemeMeta authority="http://www.iptc.org" uri="http://cv.iptc.org/newscodes/spamfcaller/"
         preferredalias="spamfcaller">
         <definition xml:lang="en-GB">Requestor of time out in American Football</definition>
+                <definition xml:lang="en-US">Requestor of time out in American Football</definition>
         <name xml:lang="en-US">American Football time-out Caller</name>
             <name xml:lang="en-GB">American Football time-out Caller</name>
         <related qcode="spamfcaller:team" rel="skos:hasTopConcept"/>

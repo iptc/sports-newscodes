@@ -104,6 +104,7 @@
     <schemeMeta authority="http://www.iptc.org" uri="http://cv.iptc.org/newscodes/spphase/"
         preferredalias="spphase">
         <definition xml:lang="en-GB">Career phases of athletes</definition>
+                <definition xml:lang="en-US">Career phases of athletes</definition>
         <name xml:lang="en-US">Career Phase</name>
             <name xml:lang="en-GB">Career Phase</name>
         <related qcode="spphase:scholastic" rel="skos:hasTopConcept"/>

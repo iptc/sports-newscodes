@@ -55,6 +55,7 @@
     <schemeMeta authority="http://www.iptc.org" uri="http://cv.iptc.org/newscodes/sptenwin/"
         preferredalias="sptenwin">
         <definition xml:lang="en-GB">Ways to win in tennis</definition>
+                <definition xml:lang="en-US">Ways to win in tennis</definition>
         <name xml:lang="en-US">Tennis Win Types</name>
             <name xml:lang="en-GB">Tennis Win Types</name>
         <related qcode="sptenwin:forced" rel="skos:hasTopConcept"/>

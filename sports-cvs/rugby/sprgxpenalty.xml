@@ -60,6 +60,7 @@
     <schemeMeta authority="http://www.iptc.org" uri="http://cv.iptc.org/newscodes/sprgxpenalty/"
         preferredalias="sprgxpenalty">
         <definition xml:lang="en-GB">Types of penalty in rugby.</definition>
+                <definition xml:lang="en-US">Types of penalty in rugby.</definition>
         <name xml:lang="en-US">Rugby Penalties</name>
             <name xml:lang="en-GB">Rugby Penalties</name>
         <related qcode="sprgxpenalty:knock-on" rel="skos:hasTopConcept"/>

@@ -84,6 +84,7 @@
     <schemeMeta authority="http://www.iptc.org" uri="http://cv.iptc.org/newscodes/sptenshot/"
         preferredalias="sptenshot">
         <definition xml:lang="en-GB">Types of shot in tennis.</definition>
+                <definition xml:lang="en-US">Types of shot in tennis.</definition>
         <name xml:lang="en-US">Tennis Shot Types</name>
             <name xml:lang="en-GB">Tennis Shot Types</name>
         <related qcode="sptenshot:crosscourt" rel="skos:hasTopConcept"/>

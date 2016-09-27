@@ -216,6 +216,7 @@
     <schemeMeta authority="http://www.iptc.org"
         uri="http://cv.iptc.org/newscodes/spweatherprediction/" preferredalias="spweatherprediction">
         <definition xml:lang="en-GB">Describes expected weather conditions for event.</definition>
+                <definition xml:lang="en-US">Describes expected weather conditions for event.</definition>
         <name xml:lang="en-US">Weather Terms</name>
             <name xml:lang="en-GB">Weather Terms</name>
         <related qcode="spweatherprediction:rain" rel="skos:hasTopConcept"/>

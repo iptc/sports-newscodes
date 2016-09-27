@@ -63,6 +63,7 @@
     <schemeMeta authority="http://www.iptc.org" uri="http://cv.iptc.org/newscodes/speventoutcome/"
         preferredalias="speventoutcome">
         <definition xml:lang="en-GB">Whether the competitor won, lost, or tied.</definition>
+                <definition xml:lang="en-US">Whether the competitor won, lost, or tied.</definition>
         <name xml:lang="en-US">Event Outcome</name>
             <name xml:lang="en-GB">Event Outcome</name>
         <related qcode="speventoutcome:win" rel="skos:hasTopConcept"/>

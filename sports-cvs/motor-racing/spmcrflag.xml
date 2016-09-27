@@ -100,6 +100,7 @@
     <schemeMeta authority="http://www.iptc.org" uri="http://cv.iptc.org/newscodes/spmcrflag/"
         preferredalias="spmcrflag">
         <definition xml:lang="en-GB">Types of motor racing communication flags.</definition>
+                <definition xml:lang="en-US">Types of motor racing communication flags.</definition>
         <name xml:lang="en-US">Motor Racing Flag Types</name>
             <name xml:lang="en-GB">Motor Racing Flag Types</name>
         <related qcode="spmcrflag:green" rel="skos:hasTopConcept"/>

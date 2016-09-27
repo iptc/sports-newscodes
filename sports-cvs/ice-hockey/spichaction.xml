@@ -124,6 +124,7 @@
     <schemeMeta authority="http://www.iptc.org" uri="http://cv.iptc.org/newscodes/spichaction/"
         preferredalias="spichaction">
         <definition xml:lang="en-GB">Types of ice hockey actions</definition>
+                <definition xml:lang="en-US">Types of ice hockey actions</definition>
         <name xml:lang="en-US">Ice Hockey Actions</name>
             <name xml:lang="en-GB">Ice Hockey Actions</name>
         <related qcode="spichaction:faceoff" rel="skos:hasTopConcept"/>

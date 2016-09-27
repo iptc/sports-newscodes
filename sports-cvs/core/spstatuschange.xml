@@ -56,6 +56,7 @@
     <schemeMeta authority="http://www.iptc.org" uri="http://cv.iptc.org/newscodes/spstatuschange/"
         preferredalias="spstatuschange">
         <definition xml:lang="en-GB">Reasons for change in status of player/athlete</definition>
+                <definition xml:lang="en-US">Reasons for change in status of player/athlete</definition>
         <name xml:lang="en-US">Status Change</name>
             <name xml:lang="en-GB">Status Change</name>
         <related qcode="spstatuschange:injury" rel="skos:hasTopConcept"/>

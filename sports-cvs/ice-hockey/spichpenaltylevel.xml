@@ -114,6 +114,7 @@
         uri="http://cv.iptc.org/newscodes/spichpenaltylevel/"
         preferredalias="spichpenaltylevel">
         <definition xml:lang="en-GB">Levels of penalty in ice-hockey.</definition>
+                <definition xml:lang="en-US">Levels of penalty in ice-hockey.</definition>
         <name xml:lang="en-US">Ice Hockey Penalty Levels</name>
             <name xml:lang="en-GB">Ice Hockey Penalty Levels</name>
         <related qcode="spichpenaltylevel:minor" rel="skos:hasTopConcept"/>

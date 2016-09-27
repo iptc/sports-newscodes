@@ -82,6 +82,7 @@
         uri="http://cv.iptc.org/newscodes/spbblballlocationhorizontal/"
         preferredalias="spbblballlocationhorizontal">
         <definition xml:lang="en-GB">Horizontal location of baseball pitches</definition>
+                <definition xml:lang="en-US">Horizontal location of baseball pitches</definition>
         <name xml:lang="en-US">Baseball Pitch Horizontal Location</name>
             <name xml:lang="en-GB">Baseball Pitch Horizontal Location</name>
         <related qcode="spbblballlocationhorizontal:inside-ball" rel="skos:hasTopConcept"/>

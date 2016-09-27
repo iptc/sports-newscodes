@@ -62,6 +62,7 @@
         uri="http://cv.iptc.org/newscodes/spsocpenaltylevel/"
         preferredalias="spsocpenaltylevel">
         <definition xml:lang="en-GB">Levels of penalty in soccer.</definition>
+                <definition xml:lang="en-US">Levels of penalty in soccer.</definition>
         <name xml:lang="en-US">Soccer Penalty Levels</name>
             <name xml:lang="en-GB">Soccer Penalty Levels</name>
         <related qcode="spsocpenaltylevel:yellow-card" rel="skos:hasTopConcept"/>

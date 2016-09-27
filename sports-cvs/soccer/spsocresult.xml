@@ -124,6 +124,7 @@
     <schemeMeta authority="http://www.iptc.org" uri="http://cv.iptc.org/newscodes/spsocresult/"
         preferredalias="spsocresult">
         <definition xml:lang="en-GB">Results of soccer plays/actions</definition>
+                <definition xml:lang="en-US">Results of soccer plays/actions</definition>
         <name xml:lang="en-US">Soccer Action Results</name>
             <name xml:lang="en-GB">Soccer Action Results</name>
         <related qcode="spsocresult:play-on" rel="skos:hasTopConcept"/>

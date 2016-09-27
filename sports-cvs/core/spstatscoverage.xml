@@ -55,6 +55,7 @@
     <schemeMeta authority="http://www.iptc.org" uri="http://cv.iptc.org/newscodes/spstatscoverage/"
         preferredalias="spstatscoverage">
         <definition xml:lang="en-GB">Coverage type for statistics</definition>
+                <definition xml:lang="en-US">Coverage type for statistics</definition>
         <name xml:lang="en-US">Statistics Coverage</name>
             <name xml:lang="en-GB">Statistics Coverage</name>
         <related qcode="spstatscoverage:compact" rel="skos:hasTopConcept"/>

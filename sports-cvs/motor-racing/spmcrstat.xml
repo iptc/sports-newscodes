@@ -412,6 +412,7 @@
     <schemeMeta uri="http://cv.iptc.org/newscodes/spmcrstat/" authority="http://www.iptc.org"
         preferredalias="spmcrstat">
         <definition xml:lang="en-GB">Vocabulary of statistics for Motor Racing</definition>
+                <definition xml:lang="en-US">Vocabulary of statistics for Motor Racing</definition>
         <name xml:lang="en-US">Motor Racing Statistics</name>
             <name xml:lang="en-GB">Motor Racing Statistics</name>
         <related qcode="spmcrstat:speed-average-race" rel="skos:hasTopConcept"/>

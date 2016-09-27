@@ -119,6 +119,7 @@
 	</conceptSet>
 	<schemeMeta authority="http://www.iptc.org" uri="http://cv.iptc.org/newscodes/sptournamentphase/"
 		preferredalias="sptournamentphase">
+		<definition xml:lang="en-US">The phase of the tournament: semi-final, quarter-final, etc.</definition>
 		<definition xml:lang="en-GB">The phase of the tournament: semi-final, quarter-final, etc.</definition>
 		<name xml:lang="en-US">Tournament Phase</name>
             <name xml:lang="en-GB">Tournament Phase</name>

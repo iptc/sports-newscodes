@@ -132,6 +132,7 @@
     <schemeMeta authority="http://www.iptc.org" uri="http://cv.iptc.org/newscodes/spamfresult/"
         preferredalias="spamfresult">
         <definition xml:lang="en-GB">Results of american football actions</definition>
+                <definition xml:lang="en-US">Results of american football actions</definition>
         <name xml:lang="en-US">American Football Action Results</name>
             <name xml:lang="en-GB">American Football Action Results</name>
         <related qcode="spamfresult:tackle" rel="skos:hasTopConcept"/>

@@ -113,6 +113,7 @@
     <schemeMeta authority="http://www.iptc.org"
         uri="http://cv.iptc.org/newscodes/spcompetitionscope/" preferredalias="spcompetitionscope">
         <definition xml:lang="en-GB">The types of singular or groups of opponents</definition>
+                <definition xml:lang="en-US">The types of singular or groups of opponents</definition>
         <name xml:lang="en-US">Scope of Competition</name>
             <name xml:lang="en-GB">Scope of Competition</name>
         <related qcode="spcompetitionscope:events-all" rel="skos:hasTopConcept"/>

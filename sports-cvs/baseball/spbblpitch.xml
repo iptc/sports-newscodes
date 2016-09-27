@@ -69,6 +69,7 @@
     <schemeMeta authority="http://www.iptc.org" uri="http://cv.iptc.org/newscodes/spbblpitch/"
         preferredalias="spbblpitch">
         <definition xml:lang="en-GB">Types of baseball pitches</definition>
+                <definition xml:lang="en-US">Types of baseball pitches</definition>
         <name xml:lang="en-US">Baseball Pitch Types</name>
             <name xml:lang="en-GB">Baseball Pitch Types</name>
         <related qcode="spbblpitch:curveball" rel="skos:hasTopConcept"/>

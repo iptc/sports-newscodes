@@ -57,6 +57,9 @@
     </conceptSet>
     <schemeMeta authority="http://www.iptc.org" uri="http://cv.iptc.org/newscodes/spresulteffect/"
         preferredalias="spresulteffect">
+        <definition xml:lang="en-US">Describes the effect that the result of the event or rank
+            changing has had on the team. Example: Whether or not a team has qualified for the
+            playoffs, or has been promoted or demoted to a different division.</definition>
         <definition xml:lang="en-GB">Describes the effect that the result of the event or rank
             changing has had on the team. Example: Whether or not a team has qualified for the
             playoffs, or has been promoted or demoted to a different division.</definition>

@@ -84,6 +84,7 @@
     <schemeMeta authority="http://www.iptc.org" uri="http://cv.iptc.org/newscodes/spcurresult/"
         preferredalias="spcurresult">
         <definition xml:lang="en-GB">Curling shot result scores</definition>
+                <definition xml:lang="en-US">Curling shot result scores</definition>
         <name xml:lang="en-US">Curling Shot Results</name>
             <name xml:lang="en-GB">Curling Shot Results</name>
         <related qcode="spcurresult:0" rel="skos:hasTopConcept"/>

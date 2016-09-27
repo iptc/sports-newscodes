@@ -79,6 +79,7 @@
         uri="http://cv.iptc.org/newscodes/spsocpenaltyresult/"
         preferredalias="spsocpenaltyresult">
         <definition xml:lang="en-GB">Results of penalties in soccer.</definition>
+                <definition xml:lang="en-US">Results of penalties in soccer.</definition>
         <name xml:lang="en-US">Soccer Penalty Results</name>
             <name xml:lang="en-GB">Soccer Penalty Results</name>
         <related qcode="spsocpenaltyresult:play-on" rel="skos:hasTopConcept"/>

@@ -904,6 +904,7 @@
     <schemeMeta uri="http://cv.iptc.org/newscodes/spichstat/" authority="http://www.iptc.org"
         preferredalias="spichstat">
         <definition xml:lang="en-GB">Vocabulary of statistics for Ice Hockey</definition>
+                <definition xml:lang="en-US">Vocabulary of statistics for Ice Hockey</definition>
         <name xml:lang="en-US">Ice Hockey Statistics</name>
             <name xml:lang="en-GB">Ice Hockey Statistics</name>
         <related qcode="spichstat:minutes-played" rel="skos:hasTopConcept"/>

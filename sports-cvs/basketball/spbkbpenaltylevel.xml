@@ -69,6 +69,7 @@
         uri="http://cv.iptc.org/newscodes/spbkbpenaltylevel/"
         preferredalias="spbkbpenaltylevel">
         <definition xml:lang="en-GB">Types of penalty in basketball.</definition>
+                <definition xml:lang="en-US">Types of penalty in basketball.</definition>
         <name xml:lang="en-US">Basketball Penalty Types</name>
             <name xml:lang="en-GB">Basketball Penalty Types</name>
         <related qcode="spbkbpenaltylevel:regular" rel="skos:hasTopConcept"/>

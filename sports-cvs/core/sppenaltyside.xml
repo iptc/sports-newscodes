@@ -47,6 +47,7 @@
     <schemeMeta authority="http://www.iptc.org" uri="http://cv.iptc.org/newscodes/sppenaltyside/"
         preferredalias="sppenaltyside">
         <definition xml:lang="en-GB">Team squad which committed the penalty.</definition>
+                <definition xml:lang="en-US">Team squad which committed the penalty.</definition>
         <name xml:lang="en-US">Penalty Side</name>
             <name xml:lang="en-GB">Penalty Side</name>
         <related qcode="sppenaltyside:offensive" rel="skos:hasTopConcept"/>

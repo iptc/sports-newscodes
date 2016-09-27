@@ -162,6 +162,7 @@
     <schemeMeta authority="http://www.iptc.org" uri="http://cv.iptc.org/newscodes/spsocpenalty/"
         preferredalias="spsocpenalty">
         <definition xml:lang="en-GB">Types of penalty in soccer.</definition>
+                <definition xml:lang="en-US">Types of penalty in soccer.</definition>
         <name xml:lang="en-US">Soccer Penalties</name>
             <name xml:lang="en-GB">Soccer Penalties</name>
         <related qcode="spsocpenalty:serious-infraction-play" rel="skos:hasTopConcept"/>
