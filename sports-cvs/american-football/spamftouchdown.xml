@@ -111,6 +111,7 @@
     <schemeMeta authority="http://www.iptc.org" uri="http://cv.iptc.org/newscodes/spamftouchdown/"
         preferredalias="spamftouchdown">
         <definition xml:lang="en-GB">Types of touchdown in American football.</definition>
+                <definition xml:lang="en-US">Types of touchdown in American football.</definition>
         <name xml:lang="en-US">American Football Touchdown Type</name>
             <name xml:lang="en-GB">American Football Touchdown Type</name>
         <related qcode="spamftouchdown:fumble-return" rel="skos:hasTopConcept"/>

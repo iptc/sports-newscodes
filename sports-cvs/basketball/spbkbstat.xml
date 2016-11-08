@@ -747,6 +747,7 @@
     <schemeMeta uri="http://cv.iptc.org/newscodes/spbkbstat/" authority="http://www.iptc.org"
         preferredalias="spbkbstat">
         <definition xml:lang="en-GB">Vocabulary of statistics for Basketball</definition>
+                <definition xml:lang="en-US">Vocabulary of statistics for Basketball</definition>
         <name xml:lang="en-US">Basketball Statistics</name>
             <name xml:lang="en-GB">Basketball Statistics</name>
         <related qcode="spbkbstat:minutes-played" rel="skos:hasTopConcept"/>

@@ -56,6 +56,7 @@
     <schemeMeta authority="http://www.iptc.org" uri="http://cv.iptc.org/newscodes/spsitestyle/"
         preferredalias="spsitestyle">
         <definition xml:lang="en-GB">Whether it is an indoor or outdoor site.</definition>
+                <definition xml:lang="en-US">Whether it is an indoor or outdoor site.</definition>
         <name xml:lang="en-US">Site Style</name>
             <name xml:lang="en-GB">Site Style</name>
         <related qcode="spsitestyle:indoor" rel="skos:hasTopConcept"/>

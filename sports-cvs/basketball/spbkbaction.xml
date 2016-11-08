@@ -100,6 +100,7 @@
     <schemeMeta authority="http://www.iptc.org" uri="http://cv.iptc.org/newscodes/spbkbaction/"
         preferredalias="spbkbaction">
         <definition xml:lang="en-GB">Types of basketball actions</definition>
+                <definition xml:lang="en-US">Types of basketball actions</definition>
         <name xml:lang="en-US">Basketball Actions</name>
             <name xml:lang="en-GB">Basketball Actions</name>
         <related qcode="spbkbaction:shot" rel="skos:hasTopConcept"/>

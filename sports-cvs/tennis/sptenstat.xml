@@ -449,6 +449,7 @@
     <schemeMeta uri="http://cv.iptc.org/newscodes/sptenstat/" authority="http://www.iptc.org"
         preferredalias="sptenstat">
         <definition xml:lang="en-GB">Vocabulary of statistics for Tennis</definition>
+                <definition xml:lang="en-US">Vocabulary of statistics for Tennis</definition>
         <name xml:lang="en-US">Tennis Statistics</name>
             <name xml:lang="en-GB">Tennis Statistics</name>
         <related qcode="sptenstat:score" rel="skos:hasTopConcept"/>

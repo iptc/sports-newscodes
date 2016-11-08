@@ -78,6 +78,8 @@
     </conceptSet>
     <schemeMeta authority="http://www.iptc.org" uri="http://cv.iptc.org/newscodes/spstreaktype/"
         preferredalias="spstreaktype">
+        <definition xml:lang="en-US">The type of streak of team or player: win, loss,
+            etc.</definition>
         <definition xml:lang="en-GB">The type of streak of team or player: win, loss,
             etc.</definition>
         <name xml:lang="en-US">Streak Type</name>

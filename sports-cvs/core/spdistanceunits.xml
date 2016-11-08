@@ -47,6 +47,7 @@
     <schemeMeta authority="http://www.iptc.org" uri="http://cv.iptc.org/newscodes/spdistanceunits/"
         preferredalias="spdistanceunits">
         <definition xml:lang="en-GB">Units of distance for shot, jump, etc.</definition>
+                <definition xml:lang="en-US">Units of distance for shot, jump, etc.</definition>
         <name xml:lang="en-US">Distance Units</name>
             <name xml:lang="en-GB">Distance Units</name>
         <related qcode="spdistanceunits:meters" rel="skos:hasTopConcept"/>

@@ -55,6 +55,8 @@
     </conceptSet>
     <schemeMeta authority="http://www.iptc.org"
         uri="http://cv.iptc.org/newscodes/spparticipantcount/" preferredalias="spparticipantcount">
+        <definition xml:lang="en-US">Groupings of participants playing on a team or side in the
+            events covered.</definition>
         <definition xml:lang="en-GB">Groupings of participants playing on a team or side in the
             events covered.</definition>
         <name xml:lang="en-US">Participant Grouping</name>

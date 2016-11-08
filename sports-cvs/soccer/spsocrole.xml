@@ -173,6 +173,7 @@
     <schemeMeta authority="http://www.iptc.org" uri="http://cv.iptc.org/newscodes/spsocrole/"
         preferredalias="spsocrole">
         <definition xml:lang="en-GB">Role of player in the described action.</definition>
+                <definition xml:lang="en-US">Role of player in the described action.</definition>
         <name xml:lang="en-US">Soccer Player Roles</name>
             <name xml:lang="en-GB">Soccer Player Roles</name>
         <related qcode="spsocrole:on-field" rel="skos:hasTopConcept"/>

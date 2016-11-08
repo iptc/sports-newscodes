@@ -1900,12 +1900,12 @@
             <definition xml:lang="en-GB">The number of tackles made while playing for a special-team.</definition>
             <related uri="http://cv.iptc.org/newscodes/spamfstat/" rel="skos:inScheme"/>
         </concept>
-        <concept id="spamfstattackles-special-teams-assists">
-            <conceptId qcode="spamfstat:tackles-special-teams-assists" created="2016-05-02T00:00:00+00:00"/>
+        <concept id="spamfstattackles-assists-special-teams">
+            <conceptId qcode="spamfstat:tackles-assists-special-teams" created="2016-05-02T00:00:00+00:00"/>
             <type qcode="cpnat:abstract"/>
             <related qcode="spct:special-teams" rel="skos:broader"/>
-            <name xml:lang="en-US">tackles-special-teams-assists</name>
-            <name xml:lang="en-GB">tackles-special-teams-assists</name>
+            <name xml:lang="en-US">tackles-assists-special-teams</name>
+            <name xml:lang="en-GB">tackles-assists-special-teams</name>
             <definition xml:lang="en-GB">The number of tackle assists performed while on special-teams.</definition>
             <related uri="http://cv.iptc.org/newscodes/spamfstat/" rel="skos:inScheme"/>
         </concept>
@@ -2373,6 +2373,7 @@
     <schemeMeta uri="http://cv.iptc.org/newscodes/spamfstat/" authority="http://www.iptc.org"
         preferredalias="spamfstat">
         <definition xml:lang="en-GB">Vocabulary of statistics for American Football</definition>
+                <definition xml:lang="en-US">Vocabulary of statistics for American Football</definition>
         <name xml:lang="en-US">American Football Statistics</name>
             <name xml:lang="en-GB">American Football Statistics</name>
         <related qcode="spamfstat:yards-per-attempt" rel="skos:hasTopConcept"/>

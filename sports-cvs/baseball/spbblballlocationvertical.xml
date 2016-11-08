@@ -82,6 +82,7 @@
         uri="http://cv.iptc.org/newscodes/spbblballlocationvertical/"
         preferredalias="spbblballlocationvertical">
         <definition xml:lang="en-GB">Vertical location of baseball pitches</definition>
+                <definition xml:lang="en-US">Vertical location of baseball pitches</definition>
         <name xml:lang="en-US">Baseball Pitch Vertical Location</name>
             <name xml:lang="en-GB">Baseball Pitch Vertical Location</name>
         <related qcode="spbblballlocationvertical:high-ball" rel="skos:hasTopConcept"/>

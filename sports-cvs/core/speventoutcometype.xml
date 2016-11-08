@@ -79,6 +79,8 @@
     </conceptSet>
     <schemeMeta authority="http://www.iptc.org"
         uri="http://cv.iptc.org/newscodes/speventoutcometype/" preferredalias="speventoutcometype">
+        <definition xml:lang="en-US">What type of outcome. Includes overtime, random (eg. by coin
+            toss), etc.</definition>
         <definition xml:lang="en-GB">What type of outcome. Includes overtime, random (eg. by coin
             toss), etc.</definition>
         <name xml:lang="en-US">Event Outcome Type</name>

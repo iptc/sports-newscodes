@@ -495,6 +495,7 @@
     <schemeMeta uri="http://cv.iptc.org/newscodes/spgolstat/" authority="http://www.iptc.org"
         preferredalias="spgolstat">
         <definition xml:lang="en-GB">Vocabulary of statistics for Golf</definition>
+                <definition xml:lang="en-US">Vocabulary of statistics for Golf</definition>
         <name xml:lang="en-US">Golf Statistics</name>
             <name xml:lang="en-GB">Golf Statistics</name>
         <related qcode="spgolstat:rank" rel="skos:hasTopConcept"/>

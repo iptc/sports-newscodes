@@ -205,6 +205,7 @@
     <schemeMeta authority="http://www.iptc.org" uri="http://cv.iptc.org/newscodes/sprgxposition/"
         preferredalias="sprgxposition">
         <definition xml:lang="en-GB">Positions of players in rugby</definition>
+                <definition xml:lang="en-US">Positions of players in rugby</definition>
         <name xml:lang="en-US">Rugby Player Positions</name>
             <name xml:lang="en-GB">Rugby Player Positions</name>
         <related qcode="sprgxposition:loose-forward" rel="skos:hasTopConcept"/>

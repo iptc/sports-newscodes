@@ -165,6 +165,7 @@
     <schemeMeta authority="http://www.iptc.org" uri="http://cv.iptc.org/newscodes/spichposition/"
         preferredalias="spichposition">
         <definition xml:lang="en-GB">Ice Hockey player positions</definition>
+                <definition xml:lang="en-US">Ice Hockey player positions</definition>
         <name xml:lang="en-US">Ice Hockey Player Positions</name>
             <name xml:lang="en-GB">Ice Hockey Player Positions</name>
         <related qcode="spichposition:defenseman" rel="skos:hasTopConcept"/>

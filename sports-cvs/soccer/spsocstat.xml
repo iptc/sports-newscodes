@@ -727,6 +727,7 @@
 	</conceptSet>
 	<schemeMeta uri="http://cv.iptc.org/newscodes/spsocstat/" authority="http://www.iptc.org"
 		preferredalias="spsocstat">
+		<definition xml:lang="en-US">Vocabulary of statistics for Soccer</definition>
 		<definition xml:lang="en-GB">Vocabulary of statistics for Soccer</definition>
 		<name xml:lang="en-US">Soccer Statistics</name>
             <name xml:lang="en-GB">Soccer Statistics</name>

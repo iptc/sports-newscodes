@@ -64,6 +64,8 @@
     </conceptSet>
     <schemeMeta authority="http://www.iptc.org" uri="http://cv.iptc.org/newscodes/spspecialgroup/"
         preferredalias="spspecialgroup">
+        <definition xml:lang="en-US">If the events covered are for special groups. Can be
+            school-oriented, age-oriented, or group names, like Firefighters.</definition>
         <definition xml:lang="en-GB">If the events covered are for special groups. Can be
             school-oriented, age-oriented, or group names, like Firefighters.</definition>
         <name xml:lang="en-US">Special Group</name>

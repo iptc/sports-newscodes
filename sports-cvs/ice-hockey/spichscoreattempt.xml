@@ -89,6 +89,7 @@
     <schemeMeta authority="http://www.iptc.org"
         uri="http://cv.iptc.org/newscodes/spichscoreattempt/" preferredalias="spichscoreattempt">
         <definition xml:lang="en-GB">Types of scoring in ice-hockey.</definition>
+                <definition xml:lang="en-US">Types of scoring in ice-hockey.</definition>
         <name xml:lang="en-US">Ice Hockey Score Types</name>
             <name xml:lang="en-GB">Ice Hockey Score Types</name>
         <related qcode="spichscoreattempt:regular" rel="skos:hasTopConcept"/>

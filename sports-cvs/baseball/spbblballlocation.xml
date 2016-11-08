@@ -69,6 +69,7 @@
     <schemeMeta authority="http://www.iptc.org"
         uri="http://cv.iptc.org/newscodes/spbblballlocation/" preferredalias="spbblballlocation">
         <definition xml:lang="en-GB">Location of baseball pitches</definition>
+                <definition xml:lang="en-US">Location of baseball pitches</definition>
         <name xml:lang="en-US">Baseball Pitch Location</name>
             <name xml:lang="en-GB">Baseball Pitch Location</name>
         <related qcode="spbblballlocation:high" rel="skos:hasTopConcept"/>

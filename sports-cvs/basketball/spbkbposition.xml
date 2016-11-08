@@ -149,6 +149,7 @@
     <schemeMeta authority="http://www.iptc.org" uri="http://cv.iptc.org/newscodes/spbkbposition/"
         preferredalias="spbkbposition">
         <definition xml:lang="en-GB">Basketball player positions</definition>
+                <definition xml:lang="en-US">Basketball player positions</definition>
         <name xml:lang="en-US">Basketball Player Positions</name>
             <name xml:lang="en-GB">Basketball Player Positions</name>
         <related qcode="spbkbposition:guard" rel="skos:hasTopConcept"/>

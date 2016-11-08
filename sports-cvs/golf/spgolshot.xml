@@ -60,6 +60,7 @@
     <schemeMeta authority="http://www.iptc.org" uri="http://cv.iptc.org/newscodes/spgolshot/"
         preferredalias="spgolshot">
         <definition xml:lang="en-GB">Types of shot in golf.</definition>
+                <definition xml:lang="en-US">Types of shot in golf.</definition>
         <name xml:lang="en-US">Golf Shot Types</name>
             <name xml:lang="en-GB">Golf Shot Types</name>
         <related qcode="spgolshot:drive" rel="skos:hasTopConcept"/>

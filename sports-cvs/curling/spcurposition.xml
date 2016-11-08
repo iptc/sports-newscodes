@@ -82,6 +82,7 @@
     <schemeMeta authority="http://www.iptc.org" uri="http://cv.iptc.org/newscodes/spcurposition/"
         preferredalias="spcurposition">
         <definition xml:lang="en-GB">Curling player positions</definition>
+                <definition xml:lang="en-US">Curling player positions</definition>
         <name xml:lang="en-US">Curling Player Positions</name>
             <name xml:lang="en-GB">Curling Player Positions</name>
         <related qcode="spcurposition:A" rel="skos:hasTopConcept"/>

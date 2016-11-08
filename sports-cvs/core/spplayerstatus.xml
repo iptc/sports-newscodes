@@ -82,6 +82,8 @@
 	</conceptSet>
 	<schemeMeta authority="http://www.iptc.org" uri="http://cv.iptc.org/newscodes/spplayerstatus/"
 		preferredalias="spplayerstatus">
+		<definition xml:lang="en-US">Whether a player starts playing at the beginning of a
+			sports-event, joins mid-game, or is not available to participate.</definition>
 		<definition xml:lang="en-GB">Whether a player starts playing at the beginning of a
 			sports-event, joins mid-game, or is not available to participate.</definition>
 		<name xml:lang="en-US">Player Status</name>

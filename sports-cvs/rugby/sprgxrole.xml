@@ -117,6 +117,7 @@
     <schemeMeta authority="http://www.iptc.org" uri="http://cv.iptc.org/newscodes/sprgxrole/"
         preferredalias="sprgxrole">
         <definition xml:lang="en-GB">Role of player in the described action.</definition>
+                <definition xml:lang="en-US">Role of player in the described action.</definition>
         <name xml:lang="en-US">Rugby Player Roles</name>
             <name xml:lang="en-GB">Rugby Player Roles</name>
         <related qcode="sprgxrole:on-field" rel="skos:hasTopConcept"/>

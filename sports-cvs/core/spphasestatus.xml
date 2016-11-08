@@ -80,6 +80,7 @@
     <schemeMeta authority="http://www.iptc.org" uri="http://cv.iptc.org/newscodes/spphasestatus/"
         preferredalias="spphasestatus">
         <definition xml:lang="en-GB">Status of an athlete</definition>
+                <definition xml:lang="en-US">Status of an athlete</definition>
         <name xml:lang="en-US">Athlete Status</name>
             <name xml:lang="en-GB">Athlete Status</name>
         <related qcode="spphasestatus:active" rel="skos:hasTopConcept"/>

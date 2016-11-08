@@ -56,6 +56,7 @@
     <schemeMeta authority="http://www.iptc.org" uri="http://cv.iptc.org/newscodes/spspecialneeds/"
         preferredalias="spspecialneeds">
         <definition xml:lang="en-GB">Events for persons with special-needs.</definition>
+                <definition xml:lang="en-US">Events for persons with special-needs.</definition>
         <name xml:lang="en-US">Special Needs</name>
             <name xml:lang="en-GB">Special Needs</name>
         <related qcode="spspecialneeds:none" rel="skos:hasTopConcept"/>

@@ -413,6 +413,7 @@
     <schemeMeta authority="http://www.iptc.org" uri="http://cv.iptc.org/newscodes/spamfposition/"
         preferredalias="spamfposition">
         <definition xml:lang="en-GB">Player positions in american football</definition>
+                <definition xml:lang="en-US">Player positions in american football</definition>
         <name xml:lang="en-US">American Football Positions</name>
             <name xml:lang="en-GB">American Football Positions</name>
         <related qcode="spamfposition:center" rel="skos:hasTopConcept"/>

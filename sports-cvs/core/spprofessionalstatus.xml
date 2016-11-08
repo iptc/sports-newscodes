@@ -48,6 +48,7 @@
         uri="http://cv.iptc.org/newscodes/spprofessionalstatus/"
         preferredalias="spprofessionalstatus">
         <definition xml:lang="en-GB">The professional status of the events covered.</definition>
+                <definition xml:lang="en-US">The professional status of the events covered.</definition>
         <name xml:lang="en-US">Professional Status</name>
             <name xml:lang="en-GB">Professional Status</name>
         <related qcode="spprofessionalstatus:amateur" rel="skos:hasTopConcept"/>

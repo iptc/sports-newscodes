@@ -61,6 +61,7 @@
     <schemeMeta authority="http://www.iptc.org" uri="http://cv.iptc.org/newscodes/spichzone/"
         preferredalias="spichzone">
         <definition xml:lang="en-GB">Zones on ice hockey rinks</definition>
+                <definition xml:lang="en-US">Zones on ice hockey rinks</definition>
         <name xml:lang="en-US">Ice Hockey Rink Zones</name>
             <name xml:lang="en-GB">Ice Hockey Rink Zones</name>
         <related qcode="spichzone:offense" rel="skos:hasTopConcept"/>

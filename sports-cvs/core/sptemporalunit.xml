@@ -160,6 +160,8 @@
     </conceptSet>
     <schemeMeta authority="http://www.iptc.org" uri="http://cv.iptc.org/newscodes/sptemporalunit/"
         preferredalias="sptemporalunit">
+        <definition xml:lang="en-US">The unit of performance to which the stats apply eg.
+            single-event, season, career.</definition>
         <definition xml:lang="en-GB">The unit of performance to which the stats apply eg.
             single-event, season, career.</definition>
         <name xml:lang="en-US">Temporal Unit</name>

@@ -74,6 +74,7 @@
 	</conceptSet>
 	<schemeMeta authority="http://www.iptc.org" uri="http://cv.iptc.org/newscodes/spseasontype/"
 		preferredalias="spseasontype">
+		<definition xml:lang="en-US">A subcategory of the season</definition>
 		<definition xml:lang="en-GB">A subcategory of the season</definition>
 		<name xml:lang="en-US">Season Type</name>
             <name xml:lang="en-GB">Season Type</name>

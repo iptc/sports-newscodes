@@ -245,6 +245,7 @@
     <schemeMeta authority="http://www.iptc.org" uri="http://cv.iptc.org/newscodes/spbblposition/"
         preferredalias="spbblposition">
         <definition xml:lang="en-GB">Baseball player positions</definition>
+                <definition xml:lang="en-US">Baseball player positions</definition>
         <name xml:lang="en-US">Baseball Player Positions</name>
             <name xml:lang="en-GB">Baseball Player Positions</name>
         <related qcode="spbblposition:1" rel="skos:hasTopConcept"/>

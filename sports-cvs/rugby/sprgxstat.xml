@@ -435,6 +435,7 @@
     <schemeMeta uri="http://cv.iptc.org/newscodes/sprgxstat/" authority="http://www.iptc.org"
         preferredalias="sprgxstat">
         <definition xml:lang="en-GB">Vocabulary of statistics for Rugby</definition>
+                <definition xml:lang="en-US">Vocabulary of statistics for Rugby</definition>
         <name xml:lang="en-US">Rugby Statistics</name>
             <name xml:lang="en-GB">Rugby Statistics</name>
         <related qcode="sprgxstat:tries-scored" rel="skos:hasTopConcept"/>

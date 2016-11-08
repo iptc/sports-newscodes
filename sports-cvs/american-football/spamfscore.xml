@@ -101,6 +101,7 @@
     <schemeMeta authority="http://www.iptc.org" uri="http://cv.iptc.org/newscodes/spamfscore/"
         preferredalias="spamfscore">
         <definition xml:lang="en-GB">Types of American Football scores</definition>
+                <definition xml:lang="en-US">Types of American Football scores</definition>
         <name xml:lang="en-US">American Football Score Types</name>
             <name xml:lang="en-GB">American Football Score Types</name>
         <related qcode="spamfscore:touchdown" rel="skos:hasTopConcept"/>

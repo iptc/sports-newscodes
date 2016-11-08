@@ -71,6 +71,7 @@
     <schemeMeta authority="http://www.iptc.org" uri="http://cv.iptc.org/newscodes/sprecipienttype/"
         preferredalias="sprecipienttype">
         <definition xml:lang="en-GB">Types of recipients of penalization</definition>
+                <definition xml:lang="en-US">Types of recipients of penalization</definition>
         <name xml:lang="en-US">Recipient Type</name>
             <name xml:lang="en-GB">Recipient Type</name>
         <related qcode="sprecipienttype:team" rel="skos:hasTopConcept"/>

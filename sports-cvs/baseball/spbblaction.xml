@@ -228,6 +228,7 @@
     <schemeMeta authority="http://www.iptc.org" uri="http://cv.iptc.org/newscodes/spbblaction/"
         preferredalias="spbblaction">
         <definition xml:lang="en-GB">Types of baseball actions</definition>
+                <definition xml:lang="en-US">Types of baseball actions</definition>
         <name xml:lang="en-US">Baseball Actions</name>
             <name xml:lang="en-GB">Baseball Actions</name>
         <related qcode="spbblaction:walk" rel="skos:hasTopConcept"/>

@@ -1096,6 +1096,7 @@
     <schemeMeta uri="http://cv.iptc.org/newscodes/spbblstat/" authority="http://www.iptc.org"
         preferredalias="spbblstat">
         <definition xml:lang="en-GB">Vocabulary of statistics for Baseball</definition>
+                <definition xml:lang="en-US">Vocabulary of statistics for Baseball</definition>
         <name xml:lang="en-US">Baseball Statistics</name>
             <name xml:lang="en-GB">Baseball Statistics</name>
         <related qcode="spbblstat:average" rel="skos:hasTopConcept"/>

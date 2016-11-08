@@ -180,6 +180,7 @@
     <schemeMeta authority="http://www.iptc.org" uri="http://cv.iptc.org/newscodes/spcurshot/"
         preferredalias="spcurshot">
         <definition xml:lang="en-GB">Types of shot in curling.</definition>
+                <definition xml:lang="en-US">Types of shot in curling.</definition>
         <name xml:lang="en-US">Curling Shot Types</name>
             <name xml:lang="en-GB">Curling Shot Types</name>
         <related qcode="spcurshot:draw" rel="skos:hasTopConcept"/>

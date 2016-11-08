@@ -173,6 +173,7 @@
     <schemeMeta authority="http://www.iptc.org" uri="http://cv.iptc.org/newscodes/spichrole/"
         preferredalias="spichrole">
         <definition xml:lang="en-GB">Role of player in the described action.</definition>
+                <definition xml:lang="en-US">Role of player in the described action.</definition>
         <name xml:lang="en-US">Ice Hockey Player Roles</name>
             <name xml:lang="en-GB">Ice Hockey Player Roles</name>
         <related qcode="spichrole:on-ice" rel="skos:hasTopConcept"/>

@@ -237,6 +237,7 @@
     <schemeMeta authority="http://www.iptc.org" uri="http://cv.iptc.org/newscodes/spsocposition/"
         preferredalias="spsocposition">
         <definition xml:lang="en-GB">Player positions in soccer</definition>
+                <definition xml:lang="en-US">Player positions in soccer</definition>
         <name xml:lang="en-US">Soccer Player Positions</name>
             <name xml:lang="en-GB">Soccer Player Positions</name>
         <related qcode="spsocposition:right-fullback" rel="skos:hasTopConcept"/>

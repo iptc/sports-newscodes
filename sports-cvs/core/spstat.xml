@@ -324,6 +324,7 @@
     <schemeMeta uri="http://cv.iptc.org/newscodes/spstat/" authority="http://www.iptc.org"
         preferredalias="spstat">
         <definition xml:lang="en-GB">Vocabulary of general sports statistics</definition>
+                <definition xml:lang="en-US">Vocabulary of general sports statistics</definition>
         <name xml:lang="en-US">Core Statistics</name>
             <name xml:lang="en-GB">Core Statistics</name>
         <related qcode="spstat:points" rel="skos:hasTopConcept"/>

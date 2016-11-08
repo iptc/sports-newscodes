@@ -68,6 +68,7 @@
     <schemeMeta authority="http://www.iptc.org" uri="http://cv.iptc.org/newscodes/spamfkick/"
         preferredalias="spamfkick">
         <definition xml:lang="en-GB">Types of kicking in American football.</definition>
+                <definition xml:lang="en-US">Types of kicking in American football.</definition>
         <name xml:lang="en-US">American Football Kick Types</name>
             <name xml:lang="en-GB">American Football Kick Types</name>
         <related qcode="spamfkick:punt" rel="skos:hasTopConcept"/>

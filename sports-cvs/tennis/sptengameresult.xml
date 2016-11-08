@@ -92,6 +92,8 @@
     </conceptSet>
     <schemeMeta authority="http://www.iptc.org" uri="http://cv.iptc.org/newscodes/sptengameresult/"
         preferredalias="sptengameresult">
+        <definition xml:lang="en-US">The score of the player or team presently serving, either love,
+            15, 30, 40, game.</definition>
         <definition xml:lang="en-GB">The score of the player or team presently serving, either love,
             15, 30, 40, game.</definition>
         <name xml:lang="en-US">Tennis Scoring</name>

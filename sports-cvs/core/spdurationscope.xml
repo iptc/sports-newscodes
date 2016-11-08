@@ -56,6 +56,7 @@
     <schemeMeta authority="http://www.iptc.org" uri="http://cv.iptc.org/newscodes/spdurationscope/"
         preferredalias="spdurationscope">
         <definition xml:lang="en-GB">Variations on standard duration of sporting events</definition>
+                <definition xml:lang="en-US">Variations on standard duration of sporting events</definition>
         <name xml:lang="en-US">Duration Scope</name>
             <name xml:lang="en-GB">Duration Scope</name>
         <related qcode="spdurationscope:events-all" rel="skos:hasTopConcept"/>

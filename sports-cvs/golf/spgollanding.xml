@@ -83,6 +83,8 @@
     </conceptSet>
     <schemeMeta authority="http://www.iptc.org" uri="http://cv.iptc.org/newscodes/spgollanding/"
         preferredalias="spgollanding">
+        <definition xml:lang="en-US">The place or surface where a golf ball lands after being
+            shot.</definition>
         <definition xml:lang="en-GB">The place or surface where a golf ball lands after being
             shot.</definition>
         <name xml:lang="en-US">Golf Shot Landings</name>

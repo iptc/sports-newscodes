@@ -380,6 +380,8 @@
     </conceptSet>
     <schemeMeta uri="http://cv.iptc.org/newscodes/spct/" authority="http://www.iptc.org"
         preferredalias="spct">
+        <definition xml:lang="en-US">General sports-related concepts such as team, player,
+            etc.</definition>
         <definition xml:lang="en-GB">General sports-related concepts such as team, player,
             etc.</definition>
         <name xml:lang="en-US">Sports Concept</name>
